@@ -1,4 +1,4 @@
-# Quick sketch of scrubbing calculator components in cljs with om, using devcards.
+Quick sketch of scrubbing calculator components in cljs with om, using devcards.
 
 # How to run
 lein figwheel

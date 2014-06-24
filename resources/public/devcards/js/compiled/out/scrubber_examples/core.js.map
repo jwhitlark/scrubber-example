@@ -1,0 +1,7 @@
+{"version":3,
+ "file":
+ "/Users/jw/Dropbox/Documents/dev/Experimental/scrubber-examples/resources/public/devcards/js/compiled/out/scrubber_examples/core.js",
+ "sources":["core.cljs"],
+ "lineCount":6,
+ "mappings":";AAAA;;AAQA,AAACA",
+ "names":["cljs.core/enable-console-print!"]}
